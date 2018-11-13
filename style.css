@@ -1,0 +1,27 @@
+* {
+  scroll-behavior: smooth;
+
+}
+
+.myButton-container {
+  text-align: center;
+  padding: 5px;
+}
+.progress { 
+  margin: 20px;
+}
+.jumbotron-fluid {
+  padding: 1px;
+  margin: 20px;
+}
+.navbar {
+  position: sticky;
+  z-index: 1;
+  top: 0; 
+  right: 0;
+  left: 0;
+  /* margin-bottom: 100px; */
+  /* width: 100%;
+  margin-top: 0px; */
+
+}
